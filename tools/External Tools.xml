@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="isort" description="Sorts Python imports in current file." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/isort" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/pagecloud" />
+    </exec>
+  </tool>
+</toolSet>

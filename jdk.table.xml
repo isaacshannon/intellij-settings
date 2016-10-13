@@ -1,0 +1,381 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/TestDjangoVirtualEnv1" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/TestDjangoVirtualEnv1/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/TestDjangoVirtualEnv1/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/TestDjangoVirtualEnv1/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/TestDjangoVirtualEnv1/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-2146863986" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Pagecloud Vagrant Python 2.7 at ~/dev/pagecloud (/home/vagrant/.virtualenvs/pagecloud/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/esmith/dev/pagecloud/home/vagrant/.virtualenvs/pagecloud/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-114023585" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/543672799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-291325" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/-114023585" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/543672799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/-291325" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-13535758" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/dev/pagecloud" INTERPRETER_PATH="/home/vagrant/.virtualenvs/pagecloud/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-13535758/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python interpreter" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/esmith/dev/pagecloud/home/vagrant/.virtualenvs/pagecloud/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-13535758" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/dev/pagecloud" INTERPRETER_PATH="/home/vagrant/.virtualenvs/pagecloud/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="false" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 Vagrant VM at ~/dev/pagecloud (/home/vagrant/.virtualenvs/pagecloud/bin/python) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/esmith/dev/pagecloud/home/vagrant/.virtualenvs/pagecloud/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-13535758" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-114023585" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/543672799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-291325" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/dev/pagecloud" INTERPRETER_PATH="/home/vagrant/.virtualenvs/pagecloud/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 Vagrant VM at ~/dev/pagecloud (/home/vagrant/.virtualenvs/pagecloud/bin/python) (3)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/esmith/dev/pagecloud/home/vagrant/.virtualenvs/pagecloud/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-13535758" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-114023585" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/543672799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-291325" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/dev/pagecloud" INTERPRETER_PATH="/home/vagrant/.virtualenvs/pagecloud/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/-13535758/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python interpreter (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/isaacshannon/Desktop/pagecloud@web/home/vagrant/.virtualenvs/pagecloud/bin/python2" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/-114023585" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/543672799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/-291325" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/-114023585" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/543672799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/-291325" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-666009708" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Desktop/pagecloud" MACHINE_NAME="web" INTERPRETER_PATH="/home/vagrant/.virtualenvs/pagecloud/bin/python2" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="false" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-298578850/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-298578850/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-298578850/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-298578850/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-298578850/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-298578850/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-666009708/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-666009708/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-666009708/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-666009708/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-666009708/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-666009708/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-85200803/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-85200803/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-85200803/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-85200803/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-85200803/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-85200803/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-85200803/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-666009708/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Host Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-8.1.2-py2.7.egg" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-1247972723" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/virtualenvs/pagecloud-py35" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/virtualenvs/pagecloud-py35/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/virtualenvs/pagecloud-py35/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/virtualenvs/pagecloud-py35/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/virtualenvs/pagecloud-py35/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/virtualenvs/pagecloud-py35/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/948356424" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/pagecloud" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 Docker Compose (web at /Users/esmith/dev/pagecloud)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="docker-compose:///Users/esmith/dev/pagecloud:web/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/249572967" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/673165940" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/726551399" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/-183260405" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-1314626891" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker Native" DOCKER_COMPOSE_FILE_PATH="$USER_HOME$/dev/pagecloud" DOCKER_COMPOSE_SERVICE_NAME="web" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.11">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/249572967" remote-root="/usr/local/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/673165940" remote-root="/usr/local/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/726551399" remote-root="/usr/local/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1314626891/-183260405" remote-root="/usr/local/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 Vagrant VM 'web' at ~/Desktop/pagecloud (/home/vagrant/.virtualenvs/pagecloud/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/isaacshannon/Desktop/pagecloud@web/home/vagrant/.virtualenvs/pagecloud/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-114023585" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/543672799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-291325" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/setuptools-18.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/1907249522" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/setuptools-18.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-1422222442" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/272964483" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Desktop/pagecloud" MACHINE_NAME="web" INTERPRETER_PATH="/home/vagrant/.virtualenvs/pagecloud/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-114023585" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/543672799" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-291325" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/setuptools-18.1-py2.7.egg" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages/setuptools-18.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/1907249522" remote-root="/home/vagrant/.virtualenvs/pagecloud/local/lib/python2.7/site-packages/pip-7.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/setuptools-18.1-py2.7.egg" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages/setuptools-18.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/272964483/-1422222442" remote-root="/home/vagrant/.virtualenvs/pagecloud/lib/python2.7/site-packages/pip-7.1.0-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
