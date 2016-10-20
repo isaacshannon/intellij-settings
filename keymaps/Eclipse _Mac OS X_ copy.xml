@@ -1,0 +1,9 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="StructuralSearchPlugin.StructuralReplaceAction">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+</keymap>
