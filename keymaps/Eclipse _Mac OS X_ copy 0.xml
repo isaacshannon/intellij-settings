@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy 0" parent="Eclipse (Mac OS X)">
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunToCursor" />
+</keymap>
