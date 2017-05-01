@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -11,15 +12,15 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
-      <mask>*.htm</mask>
-      <mask>*.j</mask>
-      <mask>*.ht</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
