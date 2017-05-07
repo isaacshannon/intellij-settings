@@ -504,6 +504,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/autoprefixer-rails-7.0.0/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v7.0.1, RVM: ruby-2.3.3 [exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/autoprefixer-rails-7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/autoprefixer-rails-7.0.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/autoprefixer-rails-7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/autoprefixer-rails-7.0.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v1.52.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/aws-sdk-1.52.0/lib" />
@@ -3960,6 +3970,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-rails-5.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="sass-rails (v5.0.6, RVM: ruby-2.3.3 [exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/sass-rails-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="sass-rails (v5.0.6, RVM: ruby-2.4.0 [rails5.0]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rails5.0/gems/sass-rails-5.0.6/lib" />
@@ -4728,6 +4746,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.7, RVM: ruby-2.3.3 [exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/tilt-2.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@exersciz/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
     <library name="treetop (v1.4.15, rbenv: 2.2.3) [gem]">
