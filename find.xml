@@ -15,13 +15,13 @@
       <mask>*.c</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
