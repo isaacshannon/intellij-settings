@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -28,6 +28,7 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*py</mask>
     </recentFileMasks>
   </component>
 </application>
