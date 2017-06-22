@@ -15,7 +15,6 @@
       <mask>*.css</mask>
       <mask>*py</mask>
       <mask>*p</mask>
-      <mask>*</mask>
       <mask>*js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -24,6 +23,10 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
+      <mask>utm</mask>
+      <mask>ut</mask>
+      <mask>u</mask>
+      <mask>*</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
     </recentFileMasks>
