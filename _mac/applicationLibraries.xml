@@ -790,6 +790,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/bundler-1.14.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.3, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/bundler-1.15.3/task" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.3.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/bundler-unload-1.0.2/lib" />
@@ -1156,6 +1172,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta10/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta10, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/debase-0.2.2.beta10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/debase-0.2.2.beta10/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta8, rbenv: 2.2.3) [gem]">
@@ -1612,6 +1638,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/guard-compat-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard-compat (v1.2.1, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/guard-compat-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/guard-compat-1.2.1/lib" />
       </SOURCES>
     </library>
     <library name="guard-minitest (v2.3.1, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
@@ -2082,6 +2116,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/jbuilder-2.6.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.7.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/jbuilder-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/jbuilder-2.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/jbuilder-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/jbuilder-2.7.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="jmespath (v1.3.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jmespath-1.3.1/lib" />
@@ -2212,6 +2256,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/json-1.8.6/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.1.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/json-2.1.0/references" />
       </SOURCES>
     </library>
     <library name="listen (v3.1.5, rbenv: 2.2.3) [gem]">
@@ -2508,6 +2574,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/minitest-reporters-1.0.5/assets" />
       </SOURCES>
     </library>
+    <library name="minitest-reporters (v1.1.14, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/minitest-reporters-1.1.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/minitest-reporters-1.1.14/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/minitest-reporters-1.1.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/minitest-reporters-1.1.14/assets" />
+      </SOURCES>
+    </library>
     <library name="minitest-reporters (v1.1.9, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/minitest-reporters-1.1.9/lib" />
@@ -2688,6 +2764,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/nio4r-2.0.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nio4r (v2.1.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/nio4r-2.1.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/nio4r-2.1.0/tasks" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.3.1, rbenv: 2.2.3) [gem]">
@@ -2928,6 +3016,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/power_assert-0.4.1/benchmarks" />
       </SOURCES>
     </library>
+    <library name="power_assert (v1.0.2, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/power_assert-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/power_assert-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/power_assert-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/power_assert-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="prawn (v2.2.2, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/prawn-2.2.2/lib" />
@@ -2968,6 +3066,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/psych-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/psych-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.2.4, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/psych-2.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/psych-2.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/psych-2.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/psych-2.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/psych-2.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/psych-2.2.4/lib" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.5, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
@@ -3062,6 +3172,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rack-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rack-2.0.2/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rack-2.0.2/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-cors (v1.0.1, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rack-cors-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rack-cors-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, rbenv: 2.2.3) [gem]">
@@ -3488,6 +3606,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rdoc-4.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rdoc-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v5.1.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rdoc-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rdoc-5.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rdoc-5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rdoc-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rdoc-5.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/rdoc-5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.6.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
@@ -3948,6 +4078,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/selenium-webdriver-3.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.4.4, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/selenium-webdriver-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/selenium-webdriver-3.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="shellany (v0.0.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/shellany-0.0.1/lib" />
@@ -4002,6 +4140,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slop-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="slop (v4.5.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/slop-4.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/slop-4.5.0/lib" />
       </SOURCES>
     </library>
     <library name="spring (v1.1.3, rbenv: 2.2.3) [gem]">
@@ -4612,6 +4758,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
+    <library name="tilt (v2.0.8, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/tilt-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/tilt-2.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/tilt-2.0.8/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/tilt-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/tilt-2.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/tilt-2.0.8/man" />
+      </SOURCES>
+    </library>
     <library name="treetop (v1.4.15, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/treetop-1.4.15/bin" />
@@ -4832,6 +4990,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/uglifier-3.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.2.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/uglifier-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/uglifier-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="web-console (v2.0.0.beta3, rbenv: 2.2.3) [gem]">
