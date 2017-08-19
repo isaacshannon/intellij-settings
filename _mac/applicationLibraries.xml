@@ -3370,6 +3370,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
+    <library name="pure-css-rails (v0.6.0, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/pure-css-rails-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/pure-css-rails-0.6.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/pure-css-rails-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/pure-css-rails-0.6.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.5, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rack-1.6.5/bin" />
