@@ -3,7 +3,6 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -18,9 +17,6 @@
       <mask>u</mask>
       <mask>*</mask>
       <mask>*.hm</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>.</mask>
       <mask>.h</mask>
       <mask>.ht</mask>
@@ -32,9 +28,12 @@
       <mask>*.j</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
