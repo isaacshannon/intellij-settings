@@ -896,6 +896,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/aws-sigv4-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="azure-core (v0.1.14, RVM: ruby-2.3.3 [rentalimg]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/azure-core-0.1.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/azure-core-0.1.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure-storage-blob (v1.0.1, RVM: ruby-2.3.3 [rentalimg]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/azure-storage-blob-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/azure-storage-blob-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure-storage-common (v1.0.1, RVM: ruby-2.3.3 [rentalimg]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/azure-storage-common-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/azure-storage-common-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
@@ -2386,6 +2410,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/faker-1.8.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.15.2, RVM: ruby-2.3.3 [rentalimg]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/faraday-0.15.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/faraday-0.15.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday_middleware (v0.12.2, RVM: ruby-2.3.3 [rentalimg]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/faraday_middleware-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/faraday_middleware-0.12.2/lib" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.3.3 [Rails5.0_exersciz]) [gem]">
@@ -4366,6 +4406,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@Rails5.0_exersciz/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.3 [rentalimg]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@rentalimg/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="mysql2 (v0.4.4, rbenv: 2.2.3) [gem]">
